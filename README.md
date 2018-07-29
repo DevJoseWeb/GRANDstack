@@ -1,3 +1,5 @@
+# Starter GRANDstack
+A maneira mais fácil de começar a usar o GRANDstack é usando o iniciador GRANDstack . Este é um projeto de modelo com um aplicativo React que usa o Apollo Client para consultar uma API do GraphQL com suporte do Neo4j.
 # GRANDstack Starter
 
 This project is a starter for building a [GRANDstack](https://grandstack.io) (GraphQL, React, Apollo, Neo4j Database) application. There are two components to the starter, the UI application (a React app) and the API app (GraphQL server).
